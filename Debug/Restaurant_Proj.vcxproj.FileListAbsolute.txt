@@ -1,0 +1,3 @@
+C:\Users\shay\Desktop\המסמכים של מהיאר\שנה ב\תכנות מונחה עצמים\Restaurant-App-master\Debug\Adelle_Rest.exe
+C:\Users\shay\source\repos\Restaurant-App-master\Debug\Adelle_Rest.exe
+C:\Users\shay\source\repos\Restaurant-App\Debug\Adelle_Rest.exe
